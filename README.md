@@ -1,1 +1,2 @@
-# ImDB-Movie-Analysis
+# ImDB-Movie-Analysis 
+Developed an interactive Power BI dashboard to analyze hotel revenue, occupancy, booking trends, and customer behavior across ITC Hotels. The dashboard tracks key KPIs such as Revenue, RevPAR, ADR, Occupancy Rate, and Cancellation Rate, enabling stakeholders to identify revenue opportunities, optimize pricing strategies, and improve operational performance through data-driven insights.
